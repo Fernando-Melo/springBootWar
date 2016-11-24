@@ -1,3 +1,5 @@
+Edited from Spring Tutorial in order to be able to deploy a .war inside an already existing tomcat.
+
 ---
 tags: [rest]
 projects: [spring-framework]
